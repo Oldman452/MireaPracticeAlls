@@ -1,0 +1,6 @@
+include ':workmanager'
+include ':thread'
+include ':looper'
+include ':loadermanger'
+include ':data_thread'
+rootProject.name = "minaev_practice4"

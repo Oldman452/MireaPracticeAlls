@@ -1,0 +1,6 @@
+include ':systemintentsapp'
+include ':simplefragmentapp'
+include ':share'
+include ':resultactivity'
+include ':intentapp'
+rootProject.name = "minaev_practice3"
