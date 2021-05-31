@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.systemintentsapp">
+    package="com.example.minaev_v_o_systemintentsapp">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Minaev_practice3">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.minaev_v_o_systemintentsapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

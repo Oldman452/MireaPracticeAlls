@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.multiactivity">
+    package="com.example.minaev_v_o_multiactivity">
 
     <application
         android:allowBackup="true"
@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Minaev_practice2">
         <activity
-            android:name=".SecondActivity"
+            android:name="com.example.minaev_v_o_multiactivity.SecondActivity"
             android:label="@string/title_activity_second"
             android:theme="@style/Theme.Minaev_practice2.NoActionBar"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.minaev_v_o_multiactivity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
