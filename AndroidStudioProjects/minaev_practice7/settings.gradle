@@ -1,0 +1,4 @@
+include ':socketconnection'
+include ':httpurlconnection'
+include ':firebaseauth'
+rootProject.name = "minaev_practice7"

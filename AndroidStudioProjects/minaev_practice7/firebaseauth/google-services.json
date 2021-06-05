@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455753407339",
+    "project_id": "minaev-practice7",
+    "storage_bucket": "minaev-practice7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455753407339:android:dbca47f56fe13d51840a2e",
+        "android_client_info": {
+          "package_name": "com.example.minaev_practice7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455753407339-m6hpk4b6i4d7tg243m33vc666gabtcip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABWrl_899rXgPBGMZQy9Fzmsx_93OKVZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455753407339-m6hpk4b6i4d7tg243m33vc666gabtcip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
